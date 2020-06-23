@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreStarterAppAPI", "AspNetCoreStarterAppAPI\AspNetCoreStarterAppAPI.csproj", "{A3CE63B5-5ABF-464E-9A3C-884D838080AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3CE63B5-5ABF-464E-9A3C-884D838080AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CE63B5-5ABF-464E-9A3C-884D838080AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CE63B5-5ABF-464E-9A3C-884D838080AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CE63B5-5ABF-464E-9A3C-884D838080AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C396A3-61AF-4071-8C8E-50991DD849F7}
+	EndGlobalSection
+EndGlobal
