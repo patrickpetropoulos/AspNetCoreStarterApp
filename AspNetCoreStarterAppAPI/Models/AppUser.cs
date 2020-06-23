@@ -1,4 +1,6 @@
-﻿namespace AspNetCoreStarterAppAPI.Models
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace AspNetCoreStarterAppAPI.Models
 {
     public class AppUser : IdentityUser
     {

@@ -1,1 +1,1 @@
-AspNetCoreStarterApp
+This is a starter version of an ASP.NET Core 3 web app.  It has JWT authentication and used EF to manage user identity.
